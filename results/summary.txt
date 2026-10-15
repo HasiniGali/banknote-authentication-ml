@@ -1,0 +1,27 @@
+
+BANKNOTE AUTHENTICATION PROJECT
+================================
+
+Dataset: UCI Banknote Authentication
+Total Records: 1372
+Number of Features: 4
+Training Records: 1097
+Testing Records: 275
+
+MODEL RESULTS
+-------------
+
+        Model  Accuracy (%)
+Decision Tree         97.09
+          KNN        100.00
+
+Best Model by Test Accuracy:
+KNN
+
+Best Test Accuracy:
+100.0%
+
+Note:
+This model demonstrates banknote classification
+using the UCI dataset. It is not specifically
+trained to authenticate Indian currency.
